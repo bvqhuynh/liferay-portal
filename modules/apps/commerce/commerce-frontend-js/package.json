@@ -1,6 +1,6 @@
 {
 	"dependencies": {
-		"@clayui/loading-indicator": "3.60.0",
+		"@clayui/loading-indicator": "3.144.1",
 		"@liferay/frontend-data-set-web": "*",
 		"@liferay/frontend-js-react-web": "*",
 		"@liferay/frontend-js-state-web": "*",
