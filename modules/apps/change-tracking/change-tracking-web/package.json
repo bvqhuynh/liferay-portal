@@ -1,7 +1,7 @@
 {
 	"dependencies": {
 		"moment": "2.29.4",
-		"react-transition-group": "4.4.1"
+		"react-transition-group": "4.4.5"
 	},
 	"name": "change-tracking-web",
 	"scripts": {
