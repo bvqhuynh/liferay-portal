@@ -2,7 +2,7 @@
 	"dependencies": {
 		"frontend-js-web": "*",
 		"moment": "2.29.4",
-		"react-transition-group": "4.4.1"
+		"react-transition-group": "4.4.5"
 	},
 	"name": "@liferay/cookies-banner-web",
 	"scripts": {
